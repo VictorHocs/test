@@ -1,0 +1,747 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ #background 
+{
+
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 100%;
+	 height: 3655px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Background1Pak2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 100%;
+	 height: 3655px;
+	 z-index:1;
+} 
+
+ #Background1Pak
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 100%;
+	 height: 800px;
+	 z-index:2;
+} 
+
+ #ABOUTBLOGBESPOK 
+{ 
+	 left: 614px; 
+	 top: 50px; 
+	 position: absolute; 
+	 width: 677px;
+	 height: 11px;
+	 z-index:3;
+} 
+
+ #layer_4 
+{ 
+	 left: 151px; 
+	 top: 31px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 51px;
+	 z-index:4;
+} 
+
+ #WhyhowandwhereLearnm 
+{ 
+	 left: 310px; 
+	 top: 326px; 
+	 position: absolute; 
+	 width: 753px;
+	 height: 152px;
+	 z-index:5;
+} 
+
+ #Headofhead
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 100%;
+	 height: 7px;
+	 z-index:6;
+} 
+
+ #scrolldowntoseemore 
+{ 
+	 left: 342px; 
+	 top: 750px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 11px;
+	 z-index:7;
+} 
+
+ #layer_8 
+{ 
+	 left: 311px; 
+	 top: 740px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 29px;
+	 z-index:8;
+} 
+
+ #layer_9 
+{ 
+	 left: 1386px; 
+	 top: 338px; 
+	 position: absolute; 
+	 width: 15px;
+	 height: 123px;
+	 z-index:9;
+} 
+
+ #layer_10 
+{ 
+	 left: 0px; 
+	 top: 2590px; 
+	 position: absolute; 
+	 width: 1440px;
+	 height: 800px;
+	 z-index:10;
+} 
+
+ #Loremipsumdolorsitam 
+{ 
+	 left: 310px; 
+	 top: 1287px; 
+	 position: absolute; 
+	 width: 307px;
+	 height: 223px;
+	 z-index:11;
+} 
+
+ #WhyPaktor 
+{ 
+	 left: 556px; 
+	 top: 1073px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 55px;
+	 z-index:12;
+} 
+
+ #layer_13 
+{ 
+	 left: 0px; 
+	 top: 1790px; 
+	 position: absolute; 
+	 width: 100%;
+	 height: 800px;
+	 z-index:13;
+} 
+
+ #Wherewemostlyare 
+{ 
+	 left: 435px; 
+	 top: 2675px; 
+	 position: absolute; 
+	 width: 577px;
+	 height: 55px;
+	 z-index:14;
+} 
+
+ #layer_15 
+{ 
+	 left: 0px; 
+	 top: 1329px; 
+	 position: absolute; 
+	 width: 1440px;
+	 height: 2326px;
+	 z-index:15;
+} 
+
+ #DOWNLOADTHEAPPCONTAC 
+{ 
+	 left: 568px; 
+	 top: 3553px; 
+	 position: absolute; 
+	 width: 304px;
+	 height: 11px;
+	 z-index:16;
+} 
+
+ #layer_17 
+{ 
+	 left: 151px; 
+	 top: 3513px; 
+	 position: absolute; 
+	 width: 1140px;
+	 height: 1px;
+	 z-index:17;
+} 
+
+ #layer_18 
+{ 
+	 left: 584px; 
+	 top: 3442px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 32px;
+	 z-index:18;
+} 
+
+ #layer_19 
+{ 
+	 left: 820px; 
+	 top: 3437px; 
+	 position: absolute; 
+	 width: 35px;
+	 height: 42px;
+	 z-index:19;
+} 
+
+ #layer_20 
+{ 
+	 left: 675px; 
+	 top: 3439px; 
+	 position: absolute; 
+	 width: 109px;
+	 height: 38px;
+	 z-index:20;
+} 
+
+ #PaktorPteLtdAllRight 
+{ 
+	 left: 487px; 
+	 top: 3600px; 
+	 position: absolute; 
+	 width: 467px;
+	 height: 16px;
+	 z-index:21;
+} 
+
+ #Loremipsumdolorsitam_0 
+{ 
+	 left: 715px; 
+	 top: 1288px; 
+	 position: absolute; 
+	 width: 409px;
+	 height: 242px;
+	 z-index:22;
+} 
+
+ #Loremipsumdolorsitam_1 
+{ 
+	 left: 311px; 
+	 top: 2297px; 
+	 position: absolute; 
+	 width: 506px;
+	 height: 70px;
+	 z-index:23;
+} 
+
+ #Inthenews 
+{ 
+	 left: 556px; 
+	 top: 1874px; 
+	 position: absolute; 
+	 width: 327px;
+	 height: 43px;
+	 z-index:24;
+} 
+
+ #SingaporesPaktorgets 
+{ 
+	 left: 312px; 
+	 top: 2209px; 
+	 position: absolute; 
+	 width: 446px;
+	 height: 65px;
+	 z-index:25;
+} 
+
+ #Loremipsumdolorsitam_2 
+{ 
+	 left: 882px; 
+	 top: 2017px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 126px;
+	 z-index:26;
+} 
+
+ #layer_27 
+{ 
+	 left: 0px; 
+	 top: 800px; 
+	 position: absolute; 
+	 width: 100%;
+	 height: 190px;
+	 z-index:27;
+} 
+
+ #hbYZiEtif 
+{ 
+	 left: 310px; 
+	 top: 869px; 
+	 position: absolute; 
+	 width: 113px;
+	 height: 57px;
+	 z-index:28;
+} 
+
+ #AeiLL6tif 
+{ 
+	 left: 469px; 
+	 top: 823px; 
+	 position: absolute; 
+	 width: 382px;
+	 height: 145px;
+	 z-index:29;
+} 
+
+ #ASSEENON 
+{ 
+	 left: 668px; 
+	 top: 834px; 
+	 position: absolute; 
+	 width: 100px;
+	 height: 11px;
+	 z-index:30;
+} 
+
+ #ygT5i5tif 
+{ 
+	 left: 890px; 
+	 top: 835px; 
+	 position: absolute; 
+	 width: 240px;
+	 height: 118px;
+	 z-index:31;
+} 
+
+ #layer_32 
+{ 
+	 left: 695px; 
+	 top: 954px; 
+	 position: absolute; 
+	 width: 50px;
+	 height: 15px;
+	 z-index:32;
+} 
+
+ #oWpVYmtif 
+{ 
+	 left: 310px; 
+	 top: 2019px; 
+	 position: absolute; 
+	 width: 520px;
+	 height: 156px;
+	 z-index:33;
+} 
+
+ #READMORE 
+{ 
+	 left: 351px; 
+	 top: 2398px; 
+	 position: absolute; 
+	 width: 98px;
+	 height: 11px;
+	 z-index:34;
+} 
+
+ #layer_35 
+{ 
+	 left: 315px; 
+	 top: 2404px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 2px;
+	 z-index:35;
+} 
+
+ #layer_36 
+{ 
+	 left: 332px; 
+	 top: 2398px; 
+	 position: absolute; 
+	 width: 9px;
+	 height: 14px;
+	 z-index:36;
+} 
+
+ #READMORE_0 
+{ 
+	 left: 912px; 
+	 top: 2159px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 9px;
+	 z-index:37;
+} 
+
+ #layer_38 
+{ 
+	 left: 883px; 
+	 top: 2163px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 2px;
+	 z-index:38;
+} 
+
+ #layer_39 
+{ 
+	 left: 896px; 
+	 top: 2158px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:39;
+} 
+
+ #AUG132015 
+{ 
+	 left: 309px; 
+	 top: 1983px; 
+	 position: absolute; 
+	 width: 106px;
+	 height: 14px;
+	 z-index:40;
+} 
+
+ #AUG132015_0 
+{ 
+	 left: 882px; 
+	 top: 1985px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 12px;
+	 z-index:41;
+} 
+
+ #Loremipsumdolorsitam_3 
+{ 
+	 left: 882px; 
+	 top: 2264px; 
+	 position: absolute; 
+	 width: 243px;
+	 height: 112px;
+	 z-index:42;
+} 
+
+ #READMORE_1 
+{ 
+	 left: 912px; 
+	 top: 2398px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 9px;
+	 z-index:43;
+} 
+
+ #layer_44 
+{ 
+	 left: 883px; 
+	 top: 2402px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 2px;
+	 z-index:44;
+} 
+
+ #layer_45 
+{ 
+	 left: 896px; 
+	 top: 2397px; 
+	 position: absolute; 
+	 width: 8px;
+	 height: 12px;
+	 z-index:45;
+} 
+
+ #AUG132015_1 
+{ 
+	 left: 882px; 
+	 top: 2232px; 
+	 position: absolute; 
+	 width: 81px;
+	 height: 12px;
+	 z-index:46;
+} 
+
+ #layer_47 
+{ 
+	 left: 309px; 
+	 top: 2199px; 
+	 position: absolute; 
+	 width: 827px;
+	 height: 308px;
+	 z-index:47;
+} 
+
+ #SHOWMORE 
+{ 
+	 left: 641px; 
+	 top: 2473px; 
+	 position: absolute; 
+	 width: 150px;
+	 height: 12px;
+	 z-index:48;
+} 
+
+ #layer_49 
+{ 
+	 left: 432px; 
+	 top: 2794px; 
+	 position: absolute; 
+	 width: 617px;
+	 height: 514px;
+	 z-index:49;
+} 
+
+ #layer_50 
+{ 
+	 left: 834px; 
+	 top: 3283px; 
+	 position: absolute; 
+	 width: 7px;
+	 height: 6px;
+	 z-index:50;
+} 
+
+ #layer_51 
+{ 
+	 left: 853px; 
+	 top: 3270px; 
+	 position: absolute; 
+	 width: 3px;
+	 height: 4px;
+	 z-index:51;
+} 
+
+ #layer_52 
+{ 
+	 left: 845px; 
+	 top: 3272px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 17px;
+	 z-index:52;
+} 
+
+ #layer_53 
+{ 
+	 left: 448px; 
+	 top: 2951px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 338px;
+	 z-index:53;
+} 
+
+ #Thailand 
+{ 
+	 left: 454px; 
+	 top: 2957px; 
+	 position: absolute; 
+	 width: 85px;
+	 height: 11px;
+	 z-index:54;
+} 
+
+ #layer_55 
+{ 
+	 left: 543px; 
+	 top: 2948px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:55;
+} 
+
+ #layer_56 
+{ 
+	 left: 449px; 
+	 top: 3090px; 
+	 position: absolute; 
+	 width: 102px;
+	 height: 23px;
+	 z-index:56;
+} 
+
+ #Malaysia 
+{ 
+	 left: 456px; 
+	 top: 3096px; 
+	 position: absolute; 
+	 width: 83px;
+	 height: 11px;
+	 z-index:57;
+} 
+
+ #layer_58 
+{ 
+	 left: 544px; 
+	 top: 3087px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:58;
+} 
+
+ #layer_59 
+{ 
+	 left: 644px; 
+	 top: 2980px; 
+	 position: absolute; 
+	 width: 97px;
+	 height: 22px;
+	 z-index:59;
+} 
+
+ #VIETNAM 
+{ 
+	 left: 659px; 
+	 top: 2985px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 11px;
+	 z-index:60;
+} 
+
+ #layer_61 
+{ 
+	 left: 630px; 
+	 top: 2976px; 
+	 position: absolute; 
+	 width: 24px;
+	 height: 33px;
+	 z-index:61;
+} 
+
+ #layer_62 
+{ 
+	 left: 583px; 
+	 top: 3123px; 
+	 position: absolute; 
+	 width: 117px;
+	 height: 22px;
+	 z-index:62;
+} 
+
+ #SINGAPORE 
+{ 
+	 left: 599px; 
+	 top: 3128px; 
+	 position: absolute; 
+	 width: 96px;
+	 height: 11px;
+	 z-index:63;
+} 
+
+ #layer_64 
+{ 
+	 left: 568px; 
+	 top: 3119px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:64;
+} 
+
+ #layer_65 
+{ 
+	 left: 816px; 
+	 top: 3001px; 
+	 position: absolute; 
+	 width: 124px;
+	 height: 23px;
+	 z-index:65;
+} 
+
+ #philippines 
+{ 
+	 left: 833px; 
+	 top: 3007px; 
+	 position: absolute; 
+	 width: 101px;
+	 height: 11px;
+	 z-index:66;
+} 
+
+ #layer_67 
+{ 
+	 left: 801px; 
+	 top: 2998px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:67;
+} 
+
+ #layer_68 
+{ 
+	 left: 763px; 
+	 top: 2781px; 
+	 position: absolute; 
+	 width: 136px;
+	 height: 73px;
+	 z-index:68;
+} 
+
+ #TAIWAN 
+{ 
+	 left: 827px; 
+	 top: 2798px; 
+	 position: absolute; 
+	 width: 63px;
+	 height: 11px;
+	 z-index:69;
+} 
+
+ #layer_70 
+{ 
+	 left: 796px; 
+	 top: 2789px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:70;
+} 
+
+ #layer_71 
+{ 
+	 left: 621px; 
+	 top: 3224px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 23px;
+	 z-index:71;
+} 
+
+ #INDONESIA 
+{ 
+	 left: 638px; 
+	 top: 3230px; 
+	 position: absolute; 
+	 width: 94px;
+	 height: 11px;
+	 z-index:72;
+} 
+
+ #layer_73 
+{ 
+	 left: 607px; 
+	 top: 3221px; 
+	 position: absolute; 
+	 width: 25px;
+	 height: 33px;
+	 z-index:73;
+} 
